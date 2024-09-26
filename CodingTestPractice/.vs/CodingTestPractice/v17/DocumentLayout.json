@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\CodingTestPractice\\CodingTestPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07F33844-9D52-4278-9173-5FA273CFD2C9}|CodingTestPractice\\CodingTestPractice.vcxproj|C:\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07F33844-9D52-4278-9173-5FA273CFD2C9}|CodingTestPractice\\CodingTestPractice.vcxproj|solutionrelative:CodingTestPractice\\CodingTestPractice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07F33844-9D52-4278-9173-5FA273CFD2C9}|CodingTestPractice\\CodingTestPractice.vcxproj|C:\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice\\10813_\uACF5 \uBC14\uAFB8\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07F33844-9D52-4278-9173-5FA273CFD2C9}|CodingTestPractice\\CodingTestPractice.vcxproj|solutionrelative:CodingTestPractice\\10813_\uACF5 \uBC14\uAFB8\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F33844-9D52-4278-9173-5FA273CFD2C9}|CodingTestPractice\\CodingTestPractice.vcxproj|C:\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice\\10810_\uACF5 \uB123\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07F33844-9D52-4278-9173-5FA273CFD2C9}|CodingTestPractice\\CodingTestPractice.vcxproj|solutionrelative:CodingTestPractice\\10810_\uACF5 \uB123\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F33844-9D52-4278-9173-5FA273CFD2C9}|CodingTestPractice\\CodingTestPractice.vcxproj|C:\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice\\25314_\uCF54\uB529\uC740 \uCCB4\uC721\uACFC\uBAA9 \uC785\uB2C8\uB2E4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07F33844-9D52-4278-9173-5FA273CFD2C9}|CodingTestPractice\\CodingTestPractice.vcxproj|solutionrelative:CodingTestPractice\\25314_\uCF54\uB529\uC740 \uCCB4\uC721\uACFC\uBAA9 \uC785\uB2C8\uB2E4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CodingTestPractice.cpp",
-              "DocumentMoniker": "C:\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice.cpp",
-              "RelativeDocumentMoniker": "CodingTestPractice\\CodingTestPractice.cpp",
-              "ToolTip": "C:\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice.cpp",
-              "RelativeToolTip": "CodingTestPractice\\CodingTestPractice.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAAAAAAA",
+              "Title": "10813_\uACF5 \uBC14\uAFB8\uAE30.cpp",
+              "DocumentMoniker": "C:\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice\\10813_\uACF5 \uBC14\uAFB8\uAE30.cpp",
+              "RelativeDocumentMoniker": "CodingTestPractice\\10813_\uACF5 \uBC14\uAFB8\uAE30.cpp",
+              "ToolTip": "C:\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice\\10813_\uACF5 \uBC14\uAFB8\uAE30.cpp",
+              "RelativeToolTip": "CodingTestPractice\\10813_\uACF5 \uBC14\uAFB8\uAE30.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T22:45:01.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10810_\uACF5 \uB123\uAE30.cpp",
+              "DocumentMoniker": "C:\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice\\10810_\uACF5 \uB123\uAE30.cpp",
+              "RelativeDocumentMoniker": "CodingTestPractice\\10810_\uACF5 \uB123\uAE30.cpp",
+              "ToolTip": "C:\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice\\10810_\uACF5 \uB123\uAE30.cpp",
+              "RelativeToolTip": "CodingTestPractice\\10810_\uACF5 \uB123\uAE30.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T22:38:36.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "25314_\uCF54\uB529\uC740 \uCCB4\uC721\uACFC\uBAA9 \uC785\uB2C8\uB2E4.cpp",
+              "DocumentMoniker": "C:\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice\\25314_\uCF54\uB529\uC740 \uCCB4\uC721\uACFC\uBAA9 \uC785\uB2C8\uB2E4.cpp",
+              "RelativeDocumentMoniker": "CodingTestPractice\\25314_\uCF54\uB529\uC740 \uCCB4\uC721\uACFC\uBAA9 \uC785\uB2C8\uB2E4.cpp",
+              "ToolTip": "C:\\CodingTestPractice\\CodingTestPractice\\CodingTestPractice\\25314_\uCF54\uB529\uC740 \uCCB4\uC721\uACFC\uBAA9 \uC785\uB2C8\uB2E4.cpp",
+              "RelativeToolTip": "CodingTestPractice\\25314_\uCF54\uB529\uC740 \uCCB4\uC721\uACFC\uBAA9 \uC785\uB2C8\uB2E4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-25T22:26:22.511Z",
               "EditorCaption": ""

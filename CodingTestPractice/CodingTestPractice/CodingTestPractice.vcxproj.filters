@@ -15,7 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CodingTestPractice.cpp">
+    <ClCompile Include="25314_코딩은 체육과목 입니다.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10810_공 넣기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10813_공 바꾸기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10811_바구니 뒤집기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
