@@ -1,4 +1,2 @@
-﻿  2745_진법 변환.cpp
-C:\CodingTestPractice\CodingTestPractice\CodingTestPractice\2745_진법 변환.cpp(10,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-C:\CodingTestPractice\CodingTestPractice\CodingTestPractice\2745_진법 변환.cpp(12,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  11005_진법 변환 2.cpp
   CodingTestPractice.vcxproj -> C:\CodingTestPractice\CodingTestPractice\x64\Debug\CodingTestPractice.exe
