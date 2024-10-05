@@ -60,5 +60,14 @@
     <ClCompile Include="2903_중앙 이동 알고리즘.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9506_약수들의 합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="27323_직사각형.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15894_수학은 체육과목입니다..cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
