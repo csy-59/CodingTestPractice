@@ -69,5 +69,17 @@
     <ClCompile Include="15894_수학은 체육과목입니다..cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9063_대지.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10101_삼각형 외우기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5073_삼각형과 세 변.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14215_세 막대.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -2,8 +2,8 @@
 
 int main()
 {
-	int n;
-	scanf_s("%d", &n);
-	printf("%d", n * 4);
+	unsigned int n;
+	scanf_s("%u", &n);
+	printf("%u", n * 4);
 	return 0;
 }  
