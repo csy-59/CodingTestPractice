@@ -81,5 +81,14 @@
     <ClCompile Include="14215_세 막대.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="24262_알고리즘수업-알고리즘의 수행 시간1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="24263_알고리즘-알고리즘의 수행 시간2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="24264_알고리즘 수업-알고리즘의 수행 시간3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
